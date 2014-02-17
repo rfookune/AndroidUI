@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="editText">Enter Login</string>
+    <string name="editText2">Enter Password</string>
+    <string name="button">Login</string>
+
+</resources>
