@@ -18,7 +18,7 @@ public class MyActivity extends Activity {
         setContentView(R.layout.main);
     }
 
-    public void sendMessage(View view) {
+    public void Login(View view) {
         // Do something in response to button
         Intent intent = new Intent(this,SignIn.class);
         EditText editText = (EditText) findViewById(R.id.editText);

@@ -4,5 +4,7 @@
     <string name="editText">Enter Login</string>
     <string name="editText2">Enter Password</string>
     <string name="button">Login</string>
+    <string name="desc1">Mac Logo</string>
+
 
 </resources>

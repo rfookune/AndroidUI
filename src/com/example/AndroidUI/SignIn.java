@@ -5,7 +5,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.widget.TextView;
 
 /**
@@ -31,12 +30,11 @@ public class SignIn extends Activity{
 
         //Create the text view
         TextView textView = new TextView(this);
-        textView.setTextSize(40);
-        textView.setText("Welcome" + name);
+        textView.setTextSize(20);
+        textView.setText("Welcome " + name);
 
 
         //Set the text view as the activity layout
         setContentView(textView);
     }
-
 }
